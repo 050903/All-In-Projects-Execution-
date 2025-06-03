@@ -1,0 +1,11 @@
+{
+    "logging": {
+        "level": "DEBUG",
+        "file": "app.log"
+    },
+    "backup": {
+        "enabled": true,
+        "interval": 24,
+        "max_backups": 5
+    }
+}

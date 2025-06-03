@@ -1,0 +1,18 @@
+2025-05-29 15:45:17,984 - __main__ - INFO - Application components initialized successfully
+2025-05-29 15:45:17,985 - __main__ - INFO - Starting Tkinter GUI mode
+2025-05-29 15:45:18,090 - __main__ - ERROR - Error in Tkinter mode: TkinterApp.__init__() got an unexpected keyword argument 'question_generator'
+2025-05-29 15:48:12,055 - __main__ - INFO - Application components initialized successfully
+2025-05-29 15:48:12,056 - __main__ - INFO - Starting Tkinter GUI mode
+2025-05-29 15:48:26,103 - __main__ - INFO - Application closing
+2025-05-29 15:48:27,828 - __main__ - INFO - Application closing
+2025-05-29 15:48:28,264 - __main__ - INFO - Application closing
+2025-05-29 15:48:28,556 - __main__ - INFO - Application closing
+2025-05-29 15:48:29,306 - __main__ - INFO - Application closing
+2025-05-29 15:49:33,783 - __main__ - INFO - Application components initialized successfully
+2025-05-29 15:49:33,784 - __main__ - INFO - Starting Tkinter GUI mode
+2025-05-29 15:49:49,111 - __main__ - INFO - Application closing
+2025-05-29 15:49:50,109 - __main__ - INFO - Application closing
+2025-05-29 15:52:03,103 - __main__ - INFO - Application closing
+2025-05-29 15:52:19,482 - __main__ - INFO - Application components initialized successfully
+2025-05-29 15:52:19,483 - __main__ - INFO - Starting Tkinter GUI mode
+2025-05-29 15:52:50,593 - __main__ - INFO - Application closing

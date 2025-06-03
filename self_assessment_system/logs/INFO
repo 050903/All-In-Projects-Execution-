@@ -1,0 +1,16 @@
+2025-05-29 15:37:43,901 - __main__ - INFO - Application components initialized successfully
+2025-05-29 15:37:43,902 - __main__ - INFO - Starting Tkinter GUI mode
+2025-05-29 15:37:44,006 - __main__ - ERROR - Error in Tkinter mode: TkinterApp.__init__() got an unexpected keyword argument 'question_generator'
+2025-05-29 15:39:01,493 - __main__ - INFO - Application components initialized successfully
+2025-05-29 15:39:01,495 - __main__ - INFO - Starting Tkinter GUI mode
+2025-05-29 15:39:01,547 - __main__ - ERROR - Error in Tkinter mode: TkinterApp.__init__() got an unexpected keyword argument 'question_generator'
+2025-05-29 15:41:07,184 - __main__ - INFO - Application components initialized successfully
+2025-05-29 15:41:07,186 - __main__ - INFO - Starting Tkinter GUI mode
+2025-05-29 15:41:07,245 - __main__ - ERROR - Error in Tkinter mode: TkinterApp.__init__() got an unexpected keyword argument 'question_generator'
+2025-05-29 15:42:04,604 - __main__ - INFO - Application components initialized successfully
+2025-05-29 15:42:04,605 - __main__ - INFO - Starting Web mode
+2025-05-29 15:42:04,605 - __main__ - ERROR - Error in web mode: WebApp.__init__() got an unexpected keyword argument 'question_generator'
+2025-05-29 15:44:32,385 - __main__ - INFO - Application components initialized successfully
+2025-05-29 15:44:37,847 - __main__ - INFO - Application components initialized successfully
+2025-05-29 15:44:37,848 - __main__ - INFO - Starting Tkinter GUI mode
+2025-05-29 15:44:37,899 - __main__ - ERROR - Error in Tkinter mode: TkinterApp.__init__() got an unexpected keyword argument 'question_generator'

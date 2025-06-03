@@ -1,0 +1,461 @@
+[
+  {
+      "id": "CV_L01",
+      "category": "Giá trị cốt lõi",
+      "text": "Sự trung thực và chính trực là kim chỉ nam cho mọi hành động của tôi.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Integrity", "interpretation": "direct"}
+  },
+  {
+      "id": "CV_L02",
+      "category": "Giá trị cốt lõi",
+      "text": "Tôi luôn tìm kiếm cơ hội để học hỏi và phát triển bản thân.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Growth Mindset", "interpretation": "direct"}
+  },
+  {
+      "id": "CV_L03",
+      "category": "Giá trị cốt lõi",
+      "text": "Việc tạo ra ảnh hưởng tích cực đến cộng đồng là rất quan trọng đối với tôi.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Social Contribution", "interpretation": "direct"}
+  },
+  {
+      "id": "CV_L04",
+      "category": "Giá trị cốt lõi",
+      "text": "Tôi ưu tiên sự ổn định và an toàn trong các quyết định dài hạn của mình.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Stability Seeking", "interpretation": "direct"}
+  },
+  {
+      "id": "CV_L05",
+      "category": "Giá trị cốt lõi",
+      "text": "Tôi đánh giá cao sự sáng tạo và luôn cố gắng tìm những giải pháp mới mẻ.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Creativity & Innovation", "interpretation": "direct"}
+  },
+  {
+      "id": "CV_L06",
+      "category": "Giá trị cốt lõi",
+      "text": "Sự độc lập và tự do trong suy nghĩ và hành động rất có ý nghĩa với tôi.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Autonomy", "interpretation": "direct"}
+  },
+  {
+      "id": "CV_L07",
+      "category": "Giá trị cốt lõi",
+      "text": "Tôi tin vào việc đối xử công bằng với tất cả mọi người, không phân biệt đối xử.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Fairness & Equality", "interpretation": "direct"}
+  },
+  {
+      "id": "CV_L08",
+      "category": "Giá trị cốt lõi",
+      "text": "Lòng biết ơn là một phần quan trọng trong cách tôi nhìn nhận cuộc sống.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Gratitude", "interpretation": "direct"}
+  },
+  {
+      "id": "CV_L09",
+      "category": "Giá trị cốt lõi",
+      "text": "Tôi coi trọng việc xây dựng và duy trì các mối quan hệ bền chặt, ý nghĩa.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Meaningful Relationships", "interpretation": "direct"}
+  },
+  {
+      "id": "CV_L10",
+      "category": "Giá trị cốt lõi",
+      "text": "Tinh thần trách nhiệm cao trong công việc và cuộc sống là điều tôi luôn hướng tới.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Responsibility", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L01",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi có khả năng diễn đạt ý tưởng một cách rõ ràng và thuyết phục bằng ngôn ngữ.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Linguistic Intelligence", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L02",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi thích đọc và có vốn từ vựng phong phú.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Linguistic Intelligence", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L03",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi giỏi trong việc suy luận logic và giải quyết các vấn đề liên quan đến con số.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Logical-Mathematical Int.", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L04",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi thích tìm hiểu các quy luật, phân tích dữ liệu và suy nghĩ một cách có hệ thống.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Logical-Mathematical Int.", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L05",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi có khả năng hình dung tốt các đối tượng trong không gian và dễ dàng đọc bản đồ.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Spatial Intelligence", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L06",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi thích các hoạt động liên quan đến nghệ thuật thị giác như vẽ, thiết kế hoặc nhiếp ảnh.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Spatial Intelligence", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L07",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi học tốt nhất thông qua các hoạt động thể chất và trải nghiệm thực tế.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Bodily-Kinesthetic Int.", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L08",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi có sự phối hợp cơ thể tốt và khéo léo trong các môn thể thao hoặc công việc thủ công.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Bodily-Kinesthetic Int.", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L09",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi nhạy cảm với âm nhạc, dễ dàng nhận ra giai điệu và nhịp điệu.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Musical Intelligence", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L10",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Âm nhạc thường gợi lên những cảm xúc mạnh mẽ trong tôi.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Musical Intelligence", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L11",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi dễ dàng thấu hiểu cảm xúc và quan điểm của người khác.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Interpersonal Intelligence", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L12",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi thích làm việc nhóm và có khả năng giao tiếp, hợp tác tốt.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Interpersonal Intelligence", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L13",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi hiểu rõ về những điểm mạnh, điểm yếu và cảm xúc của chính mình.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Intrapersonal Intelligence", "interpretation": "direct"}
+  },
+  {
+      "id": "GI_L14",
+      "category": "Trí thông minh nổi trội (Gardner)",
+      "text": "Tôi thường dành thời gian để tự suy ngẫm và phân tích bản thân.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Intrapersonal Intelligence", "interpretation": "direct"}
+  },
+  {
+      "id": "DM_L01",
+      "category": "Động lực học tập và hành động",
+      "text": "Tôi cảm thấy có động lực nhất khi được làm những việc mình thực sự yêu thích và tò mò.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Intrinsic Motivation", "interpretation": "direct"}
+  },
+  {
+      "id": "DM_L02",
+      "category": "Động lực học tập và hành động",
+      "text": "Những phần thưởng bên ngoài (tiền bạc, sự công nhận) là yếu tố quan trọng thúc đẩy tôi.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Extrinsic Motivation", "interpretation": "direct"}
+  },
+  {
+      "id": "DM_L03",
+      "category": "Động lực học tập và hành động",
+      "text": "Tôi kiên trì theo đuổi mục tiêu ngay cả khi gặp khó khăn và thử thách.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Persistence", "interpretation": "direct"}
+  },
+  {
+      "id": "DM_L04",
+      "category": "Động lực học tập và hành động",
+      "text": "Tôi thường tự đặt ra những tiêu chuẩn cao cho bản thân trong công việc/học tập.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "High Standards", "interpretation": "direct"}
+  },
+  {
+      "id": "DM_L05",
+      "category": "Động lực học tập và hành động",
+      "text": "Việc nhìn thấy sự tiến bộ của bản thân mang lại cho tôi động lực lớn.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Progress-driven Motivation", "interpretation": "direct"}
+  },
+  {
+      "id": "DM_L06",
+      "category": "Động lực học tập và hành động",
+      "text": "Tôi dễ nản lòng khi không nhận được sự hỗ trợ hoặc phản hồi tích cực.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Need for Support (inverse for motivation)", "interpretation": "inverse"}
+  },
+  {
+      "id": "MT_L01",
+      "category": "Mục tiêu cá nhân",
+      "text": "Tôi có những mục tiêu rõ ràng và cụ thể cho tương lai của mình.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Goal Clarity", "interpretation": "direct"}
+  },
+  {
+      "id": "MT_L02",
+      "category": "Mục tiêu cá nhân",
+      "text": "Tôi thường xuyên lập kế hoạch chi tiết để đạt được các mục tiêu đã đề ra.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Planning Ability", "interpretation": "direct"}
+  },
+  {
+      "id": "MT_L03",
+      "category": "Mục tiêu cá nhân",
+      "text": "Tôi tin rằng mình có khả năng đạt được những mục tiêu quan trọng mà mình đặt ra.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Self-Efficacy (Goals)", "interpretation": "direct"}
+  },
+  {
+      "id": "MT_L04",
+      "category": "Mục tiêu cá nhân",
+      "text": "Tôi sẵn sàng điều chỉnh mục tiêu và kế hoạch của mình khi hoàn cảnh thay đổi.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Adaptability (Goals)", "interpretation": "direct"}
+  },
+  {
+      "id": "MT_L05",
+      "category": "Mục tiêu cá nhân",
+      "text": "Việc đạt được mục tiêu mang lại cho tôi cảm giác thành tựu và hài lòng sâu sắc.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Sense of Accomplishment", "interpretation": "direct"}
+  },
+  {
+      "id": "MT_L06",
+      "category": "Mục tiêu cá nhân",
+      "text": "Tôi thường chia nhỏ các mục tiêu lớn thành các bước nhỏ dễ quản lý hơn.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Goal Decomposition", "interpretation": "direct"}
+  },
+  {
+      "id": "SA_L01",
+      "category": "Mức độ tự nhận thức",
+      "text": "Tôi thường xuyên suy ngẫm về những suy nghĩ, cảm xúc và hành vi của mình.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Self-Reflection", "interpretation": "direct"}
+  },
+  {
+      "id": "SA_L02",
+      "category": "Mức độ tự nhận thức",
+      "text": "Tôi nhận biết khá rõ về những điểm mạnh cá nhân của mình.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Awareness of Strengths", "interpretation": "direct"}
+  },
+  {
+      "id": "SA_L03",
+      "category": "Mức độ tự nhận thức",
+      "text": "Tôi cũng nhận thức được những lĩnh vực mình cần cải thiện hoặc những điểm yếu của bản thân.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Awareness of Weaknesses", "interpretation": "direct"}
+  },
+  {
+      "id": "SA_L04",
+      "category": "Mức độ tự nhận thức",
+      "text": "Tôi có thể nhận ra cảm xúc của mình đang thay đổi như thế nào trong các tình huống khác nhau.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Emotional Awareness", "interpretation": "direct"}
+  },
+  {
+      "id": "SA_L05",
+      "category": "Mức độ tự nhận thức",
+      "text": "Tôi hiểu được những yếu tố hoặc tình huống nào thường ảnh hưởng đến tâm trạng của mình.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Understanding Triggers", "interpretation": "direct"}
+  },
+  {
+      "id": "SA_L06",
+      "category": "Mức độ tự nhận thức",
+      "text": "Tôi cởi mở với việc lắng nghe phản hồi từ người khác về bản thân, ngay cả khi đó là những điều khó nghe.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Openness to Feedback", "interpretation": "direct"}
+  },
+  {
+      "id": "SA_L07",
+      "category": "Mức độ tự nhận thức",
+      "text": "Tôi có thể nhìn nhận hành động của mình một cách khách quan và thừa nhận khi mắc lỗi.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Objective Self-Assessment", "interpretation": "direct"}
+  },
+  {
+      "id": "SA_L08",
+      "category": "Mức độ tự nhận thức",
+      "text": "Tôi hiểu rõ những giá trị nào là quan trọng nhất đối với mình và chúng ảnh hưởng đến quyết định của tôi ra sao.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Value Clarity", "interpretation": "direct"}
+  },
+  {
+      "id": "SA_L09",
+      "category": "Mức độ tự nhận thức",
+      "text": "Tôi có ý thức về cách người khác có thể nhìn nhận hoặc cảm nhận về tôi.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Awareness of Others' Perception", "interpretation": "direct"}
+  },
+  {
+      "id": "SA_L10",
+      "category": "Mức độ tự nhận thức",
+      "text": "Tôi chủ động tìm cách để hiểu rõ hơn về bản thân và phát triển nhận thức cá nhân.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Proactive Self-Discovery", "interpretation": "direct"}
+  },
+  {
+      "id": "BEH_L01",
+      "category": "Hành vi - Nhận thức bổ sung",
+      "text": "Khi đối mặt với sự thay đổi, tôi thường cảm thấy hào hứng và xem đó là cơ hội.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Adaptability to Change", "interpretation": "direct"}
+  },
+  {
+      "id": "BEH_L02",
+      "category": "Hành vi - Nhận thức bổ sung",
+      "text": "Tôi có khả năng quản lý thời gian hiệu quả và ưu tiên công việc một cách hợp lý.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Time Management", "interpretation": "direct"}
+  },
+  {
+      "id": "BEH_L03",
+      "category": "Hành vi - Nhận thức bổ sung",
+      "text": "Tôi có thể duy trì sự tập trung cao độ trong một khoảng thời gian dài khi cần thiết.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Focus & Concentration", "interpretation": "direct"}
+  },
+  {
+      "id": "BEH_L04",
+      "category": "Hành vi - Nhận thức bổ sung",
+      "text": "Tôi cảm thấy thoải mái khi đưa ra quyết định, ngay cả khi không có đầy đủ thông tin.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Decision Making (Comfort)", "interpretation": "direct"}
+  },
+  {
+      "id": "BEH_L05",
+      "category": "Hành vi - Nhận thức bổ sung",
+      "text": "Tôi có xu hướng lạc quan và nhìn thấy mặt tích cực trong hầu hết các tình huống.",
+      "type": "likert",
+      "scale_min": 1,
+      "scale_max": 5,
+      "scoring_info": {"dimension": "Optimism", "interpretation": "direct"}
+  }
+]

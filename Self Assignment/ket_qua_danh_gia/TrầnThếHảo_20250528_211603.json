@@ -1,0 +1,352 @@
+[
+    {
+        "id_cau_hoi": "gtcl_1",
+        "cau_hoi": "Bạn có thường xuyên ưu tiên sự trung thực trong mọi hành động không?",
+        "loai_cau_hoi": "Trung thực",
+        "danh_muc_chung": "gia_tri_cot_loi",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "gtcl_2",
+        "cau_hoi": "Sự công bằng có phải là một yếu tố quan trọng trong các quyết định của bạn không?",
+        "loai_cau_hoi": "Công bằng",
+        "danh_muc_chung": "gia_tri_cot_loi",
+        "diem_so": 2
+    },
+    {
+        "id_cau_hoi": "gtcl_3",
+        "cau_hoi": "Bạn có đề cao sự phát triển cá nhân và học hỏi liên tục không?",
+        "loai_cau_hoi": "Phát triển cá nhân",
+        "danh_muc_chung": "gia_tri_cot_loi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "gtcl_4",
+        "cau_hoi": "Lòng trắc ẩn và sự đồng cảm có vai trò như thế nào đối với bạn?",
+        "loai_cau_hoi": "Trắc ẩn & Đồng cảm",
+        "danh_muc_chung": "gia_tri_cot_loi",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "gtcl_5",
+        "cau_hoi": "Bạn có coi trọng sự tự do và độc lập trong suy nghĩ và hành động không?",
+        "loai_cau_hoi": "Tự do & Độc lập",
+        "danh_muc_chung": "gia_tri_cot_loi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "gtcl_6",
+        "cau_hoi": "Bạn có luôn chịu trách nhiệm về hành động và quyết định của mình không?",
+        "loai_cau_hoi": "Trách nhiệm",
+        "danh_muc_chung": "gia_tri_cot_loi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "gtcl_7",
+        "cau_hoi": "Bạn có tôn trọng sự khác biệt và quan điểm của người khác không?",
+        "loai_cau_hoi": "Tôn trọng",
+        "danh_muc_chung": "gia_tri_cot_loi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "gtcl_8",
+        "cau_hoi": "Sự sáng tạo và đổi mới có ý nghĩa như thế nào trong công việc/cuộc sống của bạn?",
+        "loai_cau_hoi": "Sáng tạo & Đổi mới",
+        "danh_muc_chung": "gia_tri_cot_loi",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "gtcl_9",
+        "cau_hoi": "Bạn có duy trì kỷ luật cá nhân để đạt được mục tiêu đề ra không?",
+        "loai_cau_hoi": "Kỷ luật",
+        "danh_muc_chung": "gia_tri_cot_loi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "gtcl_10",
+        "cau_hoi": "Bạn có mong muốn đóng góp cho cộng đồng hoặc những mục đích lớn hơn bản thân không?",
+        "loai_cau_hoi": "Đóng góp",
+        "danh_muc_chung": "gia_tri_cot_loi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "ttm_1",
+        "cau_hoi": "Bạn có khả năng diễn đạt ý tưởng một cách rõ ràng và mạch lạc bằng lời nói hoặc văn viết không (Ngôn ngữ)?",
+        "loai_cau_hoi": "Ngôn ngữ",
+        "danh_muc_chung": "tri_thong_minh_noi_troi",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "ttm_2",
+        "cau_hoi": "Bạn có dễ dàng nhận biết các quy luật, giải quyết vấn đề logic và làm việc với các con số không (Logic-Toán học)?",
+        "loai_cau_hoi": "Logic-Toán học",
+        "danh_muc_chung": "tri_thong_minh_noi_troi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "ttm_3",
+        "cau_hoi": "Bạn có nhạy cảm với âm thanh, nhịp điệu và có khả năng cảm thụ âm nhạc tốt không (Âm nhạc)?",
+        "loai_cau_hoi": "Âm nhạc",
+        "danh_muc_chung": "tri_thong_minh_noi_troi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "ttm_4",
+        "cau_hoi": "Bạn có khả năng cảm nhận không gian, hình dung các đối tượng 3D và có năng khiếu về nghệ thuật thị giác không (Không gian)?",
+        "loai_cau_hoi": "Không gian",
+        "danh_muc_chung": "tri_thong_minh_noi_troi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "ttm_5",
+        "cau_hoi": "Bạn có khả năng sử dụng cơ thể một cách khéo léo để giải quyết vấn đề hoặc tạo ra sản phẩm (Vận động cơ thể)?",
+        "loai_cau_hoi": "Vận động cơ thể",
+        "danh_muc_chung": "tri_thong_minh_noi_troi",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "ttm_6",
+        "cau_hoi": "Bạn có khả năng thấu hiểu và tương tác hiệu quả với người khác không (Tương tác cá nhân)?",
+        "loai_cau_hoi": "Tương tác cá nhân",
+        "danh_muc_chung": "tri_thong_minh_noi_troi",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "ttm_7",
+        "cau_hoi": "Bạn có khả năng tự nhận thức rõ về bản thân, điểm mạnh, điểm yếu và cảm xúc của mình không (Nội tâm)?",
+        "loai_cau_hoi": "Nội tâm",
+        "danh_muc_chung": "tri_thong_minh_noi_troi",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "ttm_8",
+        "cau_hoi": "Bạn có yêu thích thiên nhiên, dễ dàng nhận biết và phân loại các loài động thực vật không (Thiên nhiên)?",
+        "loai_cau_hoi": "Thiên nhiên",
+        "danh_muc_chung": "tri_thong_minh_noi_troi",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "ttm_9",
+        "cau_hoi": "Bạn có thích tranh luận, phân tích các vấn đề từ nhiều góc độ và tìm ra luận điểm thuyết phục không (Ngôn ngữ - mở rộng)?",
+        "loai_cau_hoi": "Ngôn ngữ",
+        "danh_muc_chung": "tri_thong_minh_noi_troi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "ttm_10",
+        "cau_hoi": "Bạn có thường tìm kiếm các mô hình, cấu trúc ẩn sau các hiện tượng hoặc thông tin không (Logic-Toán học - mở rộng)?",
+        "loai_cau_hoi": "Logic-Toán học",
+        "danh_muc_chung": "tri_thong_minh_noi_troi",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "dl_1",
+        "cau_hoi": "Bạn có cảm thấy hứng thú khi đối mặt với những thử thách học tập mới không?",
+        "loai_cau_hoi": "Động lực học tập (Thử thách)",
+        "danh_muc_chung": "dong_luc_hoc_tap_hanh_dong",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "dl_2",
+        "cau_hoi": "Mục tiêu rõ ràng có giúp bạn duy trì động lực trong công việc và học tập không?",
+        "loai_cau_hoi": "Động lực hành động (Mục tiêu)",
+        "danh_muc_chung": "dong_luc_hoc_tap_hanh_dong",
+        "diem_so": 5
+    },
+    {
+        "id_cau_hoi": "dl_3",
+        "cau_hoi": "Sự công nhận từ người khác có phải là yếu tố thúc đẩy bạn không?",
+        "loai_cau_hoi": "Động lực bên ngoài (Công nhận)",
+        "danh_muc_chung": "dong_luc_hoc_tap_hanh_dong",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "dl_4",
+        "cau_hoi": "Bạn có thường tự đặt ra các tiêu chuẩn cao cho bản thân không?",
+        "loai_cau_hoi": "Động lực bên trong (Tiêu chuẩn cao)",
+        "danh_muc_chung": "dong_luc_hoc_tap_hanh_dong",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "dl_5",
+        "cau_hoi": "Khi gặp khó khăn, bạn có xu hướng kiên trì hay dễ dàng từ bỏ?",
+        "loai_cau_hoi": "Động lực duy trì (Kiên trì)",
+        "danh_muc_chung": "dong_luc_hoc_tap_hanh_dong",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "dl_6",
+        "cau_hoi": "Bạn có tin rằng nỗ lực có thể cải thiện khả năng của mình (Tư duy phát triển) không?",
+        "loai_cau_hoi": "Động lực bên trong (Tư duy phát triển)",
+        "danh_muc_chung": "dong_luc_hoc_tap_hanh_dong",
+        "diem_so": 5
+    },
+    {
+        "id_cau_hoi": "dl_7",
+        "cau_hoi": "Nỗi sợ thất bại có thường cản trở bạn thử những điều mới không?",
+        "loai_cau_hoi": "Rào cản động lực (Sợ thất bại)",
+        "danh_muc_chung": "dong_luc_hoc_tap_hanh_dong",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "dl_8",
+        "cau_hoi": "Bạn có tìm thấy niềm vui trong chính quá trình học tập/làm việc, thay vì chỉ kết quả cuối cùng không?",
+        "loai_cau_hoi": "Động lực bên trong (Niềm vui quá trình)",
+        "danh_muc_chung": "dong_luc_hoc_tap_hanh_dong",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "dl_9",
+        "cau_hoi": "Phần thưởng (tiền bạc, điểm số) có phải là động lực chính yếu của bạn không?",
+        "loai_cau_hoi": "Động lực bên ngoài (Phần thưởng)",
+        "danh_muc_chung": "dong_luc_hoc_tap_hanh_dong",
+        "diem_so": 5
+    },
+    {
+        "id_cau_hoi": "dl_10",
+        "cau_hoi": "Bạn có chủ động tìm kiếm cơ hội để học hỏi và phát triển kỹ năng không?",
+        "loai_cau_hoi": "Động lực học tập (Chủ động)",
+        "danh_muc_chung": "dong_luc_hoc_tap_hanh_dong",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "mt_1",
+        "cau_hoi": "Bạn có xác định rõ ràng các mục tiêu ngắn hạn (trong 1 năm tới) của mình không?",
+        "loai_cau_hoi": "Mục tiêu ngắn hạn (Rõ ràng)",
+        "danh_muc_chung": "muc_tieu_ca_nhan",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "mt_2",
+        "cau_hoi": "Bạn có kế hoạch cụ thể để đạt được các mục tiêu dài hạn (3-5 năm) không?",
+        "loai_cau_hoi": "Mục tiêu dài hạn (Kế hoạch)",
+        "danh_muc_chung": "muc_tieu_ca_nhan",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "mt_3",
+        "cau_hoi": "Bạn có thường xuyên xem xét và điều chỉnh mục tiêu cá nhân của mình không?",
+        "loai_cau_hoi": "Quản lý mục tiêu (Xem xét & Điều chỉnh)",
+        "danh_muc_chung": "muc_tieu_ca_nhan",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "mt_4",
+        "cau_hoi": "Các mục tiêu của bạn có cụ thể, đo lường được, khả thi, liên quan và có thời hạn (SMART) không?",
+        "loai_cau_hoi": "Mục tiêu SMART",
+        "danh_muc_chung": "muc_tieu_ca_nhan",
+        "diem_so": 2
+    },
+    {
+        "id_cau_hoi": "mt_5",
+        "cau_hoi": "Mục tiêu của bạn có phù hợp với giá trị cốt lõi của bạn không?",
+        "loai_cau_hoi": "Mục tiêu (Phù hợp giá trị)",
+        "danh_muc_chung": "muc_tieu_ca_nhan",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "mt_6",
+        "cau_hoi": "Bạn có chia nhỏ mục tiêu lớn thành các bước hành động nhỏ hơn không?",
+        "loai_cau_hoi": "Mục tiêu (Chia nhỏ hành động)",
+        "danh_muc_chung": "muc_tieu_ca_nhan",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "mt_7",
+        "cau_hoi": "Bạn có hình dung rõ ràng về kết quả khi đạt được mục tiêu không?",
+        "loai_cau_hoi": "Mục tiêu (Hình dung kết quả)",
+        "danh_muc_chung": "muc_tieu_ca_nhan",
+        "diem_so": 2
+    },
+    {
+        "id_cau_hoi": "mt_8",
+        "cau_hoi": "Bạn có sẵn sàng thay đổi kế hoạch khi gặp trở ngại không lường trước không?",
+        "loai_cau_hoi": "Mục tiêu (Linh hoạt)",
+        "danh_muc_chung": "muc_tieu_ca_nhan",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "mt_9",
+        "cau_hoi": "Bạn có theo dõi tiến độ thực hiện mục tiêu của mình không?",
+        "loai_cau_hoi": "Quản lý mục tiêu (Theo dõi tiến độ)",
+        "danh_muc_chung": "muc_tieu_ca_nhan",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "mt_10",
+        "cau_hoi": "Bạn có ăn mừng những thành tựu nhỏ trên con đường đạt mục tiêu lớn không?",
+        "loai_cau_hoi": "Quản lý mục tiêu (Ăn mừng thành tựu nhỏ)",
+        "danh_muc_chung": "muc_tieu_ca_nhan",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "tnt_1",
+        "cau_hoi": "Bạn có nhận biết rõ ràng những điểm mạnh của bản thân không?",
+        "loai_cau_hoi": "Tự nhận thức (Điểm mạnh)",
+        "danh_muc_chung": "muc_do_tu_nhan_thuc",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "tnt_2",
+        "cau_hoi": "Bạn có ý thức được những điểm yếu cần cải thiện của mình không?",
+        "loai_cau_hoi": "Tự nhận thức (Điểm yếu)",
+        "danh_muc_chung": "muc_do_tu_nhan_thuc",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "tnt_3",
+        "cau_hoi": "Bạn có thường xuyên suy ngẫm về cảm xúc và hành vi của mình không?",
+        "loai_cau_hoi": "Tự nhận thức (Cảm xúc & Hành vi)",
+        "danh_muc_chung": "muc_do_tu_nhan_thuc",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "tnt_4",
+        "cau_hoi": "Bạn có hiểu rõ những yếu tố nào thường ảnh hưởng đến quyết định của bạn không?",
+        "loai_cau_hoi": "Tự nhận thức (Yếu tố ảnh hưởng quyết định)",
+        "danh_muc_chung": "muc_do_tu_nhan_thuc",
+        "diem_so": 2
+    },
+    {
+        "id_cau_hoi": "tnt_5",
+        "cau_hoi": "Bạn có nhận biết được cảm xúc của người khác qua biểu hiện của họ không?",
+        "loai_cau_hoi": "Nhận thức xã hội (Đọc vị cảm xúc)",
+        "danh_muc_chung": "muc_do_tu_nhan_thuc",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "tnt_6",
+        "cau_hoi": "Bạn có hiểu được hành động của mình ảnh hưởng đến người khác như thế nào không?",
+        "loai_cau_hoi": "Tự nhận thức (Ảnh hưởng đến người khác)",
+        "danh_muc_chung": "muc_do_tu_nhan_thuc",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "tnt_7",
+        "cau_hoi": "Bạn có cởi mở đón nhận những phản hồi mang tính xây dựng về bản thân không?",
+        "loai_cau_hoi": "Tự nhận thức (Đón nhận phản hồi)",
+        "danh_muc_chung": "muc_do_tu_nhan_thuc",
+        "diem_so": 4
+    },
+    {
+        "id_cau_hoi": "tnt_8",
+        "cau_hoi": "Bạn có biết những tình huống nào dễ khiến bạn căng thẳng hoặc mất bình tĩnh không?",
+        "loai_cau_hoi": "Tự nhận thức (Tác nhân căng thẳng)",
+        "danh_muc_chung": "muc_do_tu_nhan_thuc",
+        "diem_so": 3
+    },
+    {
+        "id_cau_hoi": "tnt_9",
+        "cau_hoi": "Bạn có thể mô tả các giá trị quan trọng nhất đối với bạn một cách rõ ràng không?",
+        "loai_cau_hoi": "Tự nhận thức (Giá trị cá nhân)",
+        "danh_muc_chung": "muc_do_tu_nhan_thuc",
+        "diem_so": 2
+    },
+    {
+        "id_cau_hoi": "tnt_10",
+        "cau_hoi": "Bạn có nhận ra những 'điểm mù' (những điều người khác thấy ở bạn mà bạn không thấy) của mình không?",
+        "loai_cau_hoi": "Tự nhận thức (Điểm mù)",
+        "danh_muc_chung": "muc_do_tu_nhan_thuc",
+        "diem_so": 3
+    }
+]

@@ -1,0 +1,211 @@
+{
+    "user_id": "123",
+    "assessment_name": "tkinter_enhanced_v1",
+    "timestamp": "2025-05-29T16:34:19.138261",
+    "responses": [
+        {
+            "question_id": "CV_L01",
+            "answer": 3
+        },
+        {
+            "question_id": "CV_L02",
+            "answer": 4
+        },
+        {
+            "question_id": "CV_L03",
+            "answer": 3
+        },
+        {
+            "question_id": "CV_L04",
+            "answer": 5
+        },
+        {
+            "question_id": "CV_L05",
+            "answer": 4
+        },
+        {
+            "question_id": "CV_L06",
+            "answer": 5
+        },
+        {
+            "question_id": "CV_L07",
+            "answer": 4
+        },
+        {
+            "question_id": "CV_L08",
+            "answer": 5
+        },
+        {
+            "question_id": "CV_L09",
+            "answer": 3
+        },
+        {
+            "question_id": "CV_L10",
+            "answer": 4
+        },
+        {
+            "question_id": "GI_L01",
+            "answer": 5
+        },
+        {
+            "question_id": "GI_L02",
+            "answer": 4
+        },
+        {
+            "question_id": "GI_L03",
+            "answer": 3
+        },
+        {
+            "question_id": "GI_L04",
+            "answer": 4
+        },
+        {
+            "question_id": "GI_L05",
+            "answer": 1
+        },
+        {
+            "question_id": "GI_L06",
+            "answer": 2
+        },
+        {
+            "question_id": "GI_L07",
+            "answer": 3
+        },
+        {
+            "question_id": "GI_L08",
+            "answer": 4
+        },
+        {
+            "question_id": "GI_L09",
+            "answer": 5
+        },
+        {
+            "question_id": "GI_L10",
+            "answer": 1
+        },
+        {
+            "question_id": "GI_L11",
+            "answer": 2
+        },
+        {
+            "question_id": "GI_L12",
+            "answer": 3
+        },
+        {
+            "question_id": "GI_L13",
+            "answer": 4
+        },
+        {
+            "question_id": "GI_L14",
+            "answer": 5
+        },
+        {
+            "question_id": "DM_L01",
+            "answer": 5
+        },
+        {
+            "question_id": "DM_L02",
+            "answer": 4
+        },
+        {
+            "question_id": "DM_L03",
+            "answer": 3
+        },
+        {
+            "question_id": "DM_L04",
+            "answer": 4
+        },
+        {
+            "question_id": "DM_L05",
+            "answer": 5
+        },
+        {
+            "question_id": "DM_L06",
+            "answer": 4
+        },
+        {
+            "question_id": "MT_L01",
+            "answer": 5
+        },
+        {
+            "question_id": "MT_L02",
+            "answer": 4
+        },
+        {
+            "question_id": "MT_L03",
+            "answer": 3
+        },
+        {
+            "question_id": "MT_L04",
+            "answer": 4
+        },
+        {
+            "question_id": "MT_L05",
+            "answer": 5
+        },
+        {
+            "question_id": "MT_L06",
+            "answer": 4
+        },
+        {
+            "question_id": "SA_L01",
+            "answer": 3
+        },
+        {
+            "question_id": "SA_L02",
+            "answer": 4
+        },
+        {
+            "question_id": "SA_L03",
+            "answer": 5
+        },
+        {
+            "question_id": "SA_L04",
+            "answer": 4
+        },
+        {
+            "question_id": "SA_L05",
+            "answer": 5
+        },
+        {
+            "question_id": "SA_L06",
+            "answer": 4
+        },
+        {
+            "question_id": "SA_L07",
+            "answer": 3
+        },
+        {
+            "question_id": "SA_L08",
+            "answer": 4
+        },
+        {
+            "question_id": "SA_L09",
+            "answer": 5
+        },
+        {
+            "question_id": "SA_L10",
+            "answer": 4
+        },
+        {
+            "question_id": "BEH_L01",
+            "answer": 4
+        },
+        {
+            "question_id": "BEH_L02",
+            "answer": 5
+        },
+        {
+            "question_id": "BEH_L03",
+            "answer": 4
+        },
+        {
+            "question_id": "BEH_L04",
+            "answer": 5
+        },
+        {
+            "question_id": "BEH_L05",
+            "answer": 4
+        }
+    ]
+}

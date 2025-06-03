@@ -1,0 +1,207 @@
+{
+    "user_id": "tran the hao",
+    "assessment_name": "self_assessment_v1",
+    "timestamp": "2025-05-29T00:24:38.572206",
+    "responses": [
+        {
+            "question_id": "CV01",
+            "answer": 2
+        },
+        {
+            "question_id": "CV02",
+            "answer": 3
+        },
+        {
+            "question_id": "CV03",
+            "answer": 1
+        },
+        {
+            "question_id": "CV04",
+            "answer": 3
+        },
+        {
+            "question_id": "CV05",
+            "answer": 2
+        },
+        {
+            "question_id": "CV06",
+            "answer": "a"
+        },
+        {
+            "question_id": "CV07",
+            "answer": "1"
+        },
+        {
+            "question_id": "CV08",
+            "answer": "3"
+        },
+        {
+            "question_id": "GI_L01",
+            "answer": 1
+        },
+        {
+            "question_id": "GI_L02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "GI_LS01",
+            "answer": 3
+        },
+        {
+            "question_id": "GI_LS02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "GI_V01",
+            "answer": 5
+        },
+        {
+            "question_id": "GI_V02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "GI_K01",
+            "answer": 2
+        },
+        {
+            "question_id": "GI_K02",
+            "answer": "Không"
+        },
+        {
+            "question_id": "GI_M01",
+            "answer": 2
+        },
+        {
+            "question_id": "GI_M02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "GI_I01",
+            "answer": 2
+        },
+        {
+            "question_id": "GI_I02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "GI_IN01",
+            "answer": 4
+        },
+        {
+            "question_id": "GI_IN02",
+            "answer": "Không"
+        },
+        {
+            "question_id": "GI_N01",
+            "answer": 2
+        },
+        {
+            "question_id": "GI_N02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "EQ_TS01",
+            "answer": 1
+        },
+        {
+            "question_id": "EQ_TS02",
+            "answer": "Không"
+        },
+        {
+            "question_id": "EQ_QLC01",
+            "answer": 5
+        },
+        {
+            "question_id": "EQ_QLC02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "EQ_TDS01",
+            "answer": 3
+        },
+        {
+            "question_id": "EQ_TDS02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "EQ_DQ01",
+            "answer": 5
+        },
+        {
+            "question_id": "EQ_DQ02",
+            "answer": "Không"
+        },
+        {
+            "question_id": "EQ_MQH01",
+            "answer": 4
+        },
+        {
+            "question_id": "EQ_MQH02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "NL_HT01",
+            "answer": 2
+        },
+        {
+            "question_id": "NL_HT02",
+            "answer": "Không"
+        },
+        {
+            "question_id": "NL_GV01",
+            "answer": 2
+        },
+        {
+            "question_id": "NL_GV02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "NL_GT01",
+            "answer": 5
+        },
+        {
+            "question_id": "NL_GT02",
+            "answer": "Không"
+        },
+        {
+            "question_id": "SK_TT01",
+            "answer": 3
+        },
+        {
+            "question_id": "SK_TT02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "SK_TT03",
+            "answer": "a"
+        },
+        {
+            "question_id": "SK_TT04",
+            "answer": "Có"
+        },
+        {
+            "question_id": "SK_TT05",
+            "answer": 3
+        },
+        {
+            "question_id": "PT_CN01",
+            "answer": 2
+        },
+        {
+            "question_id": "PT_CN02",
+            "answer": "Có"
+        },
+        {
+            "question_id": "PT_CN03",
+            "answer": "c"
+        },
+        {
+            "question_id": "PT_CN04",
+            "answer": "Không"
+        },
+        {
+            "question_id": "PT_CN05",
+            "answer": 5
+        }
+    ]
+}
