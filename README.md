@@ -33,7 +33,6 @@ This repository serves as a comprehensive collection of cryptography and securit
 <<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/9c16362f-dc59-4749-a481-f05d24215b3e)
 =======
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 
 ### 1. RSA Algorithm Implementation
 - File: `RSA algorithm.py`
@@ -50,11 +49,9 @@ This repository serves as a comprehensive collection of cryptography and securit
   - Key exchange protocols
 
 ### 2. AES Components
-<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/d7c58f0f-0c64-4f4e-948b-a27c94b658bb)
 
 =======
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 - `# MixColumns Matrix (Forward).py`:
   - Implementation of AES MixColumns operation
   - Matrix multiplication in GF(2^8)
@@ -69,11 +66,9 @@ This repository serves as a comprehensive collection of cryptography and securit
   - Multiplicative inverse tables
 
 ### 3. DES Implementation
-<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/d9b24ae5-4fc3-4b0d-88a9-6d412561df70)
 
 =======
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 - `Hand S-box (DES S-box).py`:
   - Implementation of DES S-box operations
   - 6-bit to 4-bit substitution
@@ -81,11 +76,9 @@ This repository serves as a comprehensive collection of cryptography and securit
   - Permutation operations
 
 ### 4. Hill Cipher Project
-<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/4efd58fa-1608-40bd-ae29-9cfcbbf09949)
 
 =======
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 - Directory: `Hill Cipher Project/`
 - Description: Implementation of the Hill cipher, a polygraphic substitution cipher
 - Features:
@@ -96,11 +89,9 @@ This repository serves as a comprehensive collection of cryptography and securit
 - Security Level: Medium (Educational purposes)
 
 ### 5. Shift Cipher
-<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/3a6b0610-6a84-4858-8022-3c5714bc06b1)
 
 =======
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 - `def shift_cipher_encrypt(plaintext, key).py`:
   - Implementation of the shift cipher (Caesar cipher)
   - Character shifting operations
@@ -109,7 +100,6 @@ This repository serves as a comprehensive collection of cryptography and securit
 - Security Level: Low (Educational purposes)
 
 ### 6. Additional Tools
-<<<<<<< HEAD
 
 
 #### - `Tool Convert Word To LateX/`:
@@ -156,13 +146,11 @@ This repository serves as a comprehensive collection of cryptography and securit
   - Machine learning implementation
   - Game state management
   - User interface
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 
 ## Technologies Used
 
 ### Programming Languages
 - **Primary Language**: Python 3.x
-<<<<<<< HEAD
 - ![image](https://github.com/user-attachments/assets/f40becd3-ac4c-4945-8886-4313f6d965e3)
 
 - **Scripting**: Bash (for automation)
@@ -211,7 +199,6 @@ This repository serves as a comprehensive collection of cryptography and securit
 - Git for version control
 - VS Code/PyCharm for development
 - Jupyter Notebook for documentation
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 
 ## Getting Started
 
@@ -247,11 +234,9 @@ pip install numpy sympy matplotlib jupyter
 ## Usage
 
 ### RSA Algorithm
-<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/e069aab5-2bb0-4af5-8f1d-e5dccfb75da2)
 
 =======
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 ```python
 # Example usage of RSA
 from RSA_algorithm import generate_keys, encrypt, decrypt
@@ -269,11 +254,9 @@ print(f"Decrypted message: {decrypted}")
 ```
 
 ### Hill Cipher
-<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/000a22aa-0a90-4d22-a522-a132d2ba4fc1)
 
 =======
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 ```python
 # Example usage of Hill Cipher
 from hill_cipher import encrypt, decrypt, generate_key_matrix
@@ -291,7 +274,6 @@ print(f"Decrypted message: {decrypted}")
 ```
 
 ## Project Structure
-<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/76fd5e67-ec61-4a51-b993-4288138f9952)
 =======
 ```
@@ -307,7 +289,6 @@ print(f"Decrypted message: {decrypted}")
 ├── Cryptography Evolution Infographic/
 └── A.I Caro Game/
 ```
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 
 ## Security Considerations
 
@@ -359,10 +340,8 @@ pytest tests/
    - Optimize matrix operations
 
 ## License
-<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/83dbe8fc-fc94-4fcc-a3ba-983dfa607bd5)
 =======
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
