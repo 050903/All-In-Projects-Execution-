@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # All-In-Projects-Execution-
 All-IN-ONE (AIO) to apply directly to practice
 =======
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
 # Cryptography and Security Project Collection
 
 This repository contains a comprehensive collection of cryptography and security-related projects, algorithms, and tools implemented in Python. The projects range from basic cryptographic algorithms to more complex security implementations, providing both educational value and practical applications.
@@ -390,8 +388,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-<<<<<<< HEAD
-``` 
-=======
-``` 
->>>>>>> 14a9860 (Initial commit - Push all Python projects)
+
